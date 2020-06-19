@@ -1,0 +1,59 @@
+.middle > * {
+    vertical-align: middle;
+  }
+
+  html,body{
+      width: 100%;
+      height: 100%;
+  }
+
+  .nav-link{
+      color: #F0851C !important;
+  }
+
+  .nav-link.active{
+      color: black !important;
+  }
+  .header{
+      font-weight: 700;
+      font-size: 38px;
+  }
+
+  /*page1 css starts*/
+
+  .subheader{
+      font-size: 24px !important;
+  }
+
+  .btn-success{
+      background-color: #60DBBF !important;
+      border: none !important;
+      border-radius: 15px !important;
+  }
+
+  .pg1btntext{
+      font-size: 26px;
+  }
+
+  section{
+    height: 100vh !important;
+    width: 100%;
+  }
+
+    /*page1 css ends*/
+
+/*page2 css starts*/
+
+.card{
+    border: none !important;
+}
+/*page2 css ends*/
+
+/*page3,4,5,6 css starts*/
+.orangebtn{
+background-color: #F0851D;
+color: white;
+border-radius: 15px !important;
+}
+/*page3,4,5,6 css starts*/
+
